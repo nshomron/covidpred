@@ -1,0 +1,9 @@
+'num_leaves': 20
+'min_data_in_leaf': 4
+'feature_fraction': 0.2
+'bagging_fraction': 0.8
+'bagging_freq': 5
+'learning_rate': 0.05
+'verbose': 1
+num_boost_round=603
+early_stopping_rounds=5

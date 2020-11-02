@@ -1,8 +1,5 @@
 ## A COVID-19 Prediction Model Using Symptoms
-From the paper: 
-
-Yazeed Zoabi et al., **Machine Learning-based prediction of COVID-19 diagnosis based on symptoms.**
-
+From: [COVID-19 diagnosis prediction by symptoms of tested individuals: a machine learning approach](https://www.medrxiv.org/content/10.1101/2020.05.07.20093948v2), medRxiv; [doi:10.1101/2020.05.07.20093948](https://doi.org/10.1101/2020.05.07.20093948)
 
 ## Model Predictors and Exact Variable Names (True = 1, False = 0)
 * **Age over 60** - Age_60

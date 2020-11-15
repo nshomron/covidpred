@@ -27,4 +27,5 @@ The probability of being diagnosed with a COVID-19 infection.
 * **lgbm_model_all_features.txt** - The predictor that uses all 8 features
 * **lgbm_model_balanced_features.txt** - The predictor that uses only balanced symptoms
 * **hyperparameters.txt** - The hyperparameters used by lightGBM
+* **data/corona_tested_individuals_ver_0083.english.csv.zip** - The tested individuals dataset downloaded from https://data.gov.il/dataset/covid-19 on November 15, 2020 and translated into English
 

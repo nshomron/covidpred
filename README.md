@@ -1,7 +1,10 @@
-## A COVID-19 Prediction Model Using Symptoms
-From: [Machine learning-based prediction of COVID-19 diagnosis based on symptoms](https://www.nature.com/articles/s41746-020-00372-6), npj Digital Medicine; [doi:10.1038/s41746-020-00372-6](https://doi.org/10.1038/s41746-020-00372-6)
+## Machine learning-based prediction of COVID-19 diagnosis based on symptoms
+[npj Digital Medicine](https://www.nature.com/articles/s41746-020-00372-6) | [medRxiv](https://www.medrxiv.org/content/10.1101/2020.05.07.20093948v2) | [PDF](https://www.nature.com/articles/s41746-020-00372-6.pdf)
 
-Previously: [COVID-19 diagnosis prediction by symptoms of tested individuals: a machine learning approach](https://www.medrxiv.org/content/10.1101/2020.05.07.20093948v2), medRxiv; [doi:10.1101/2020.05.07.20093948](https://doi.org/10.1101/2020.05.07.20093948)
+[Yazeed Zoabi](https://yazeedzoabi.com)<sup>1</sup>, [Shira Deri-Rozov](https://nshomron.github.io/)<sup>1</sup>, [Noam Shomron](https://nshomron.github.io/)<sup>1</sup><br />
+<sup>1</sup> Tel Aviv University
+
+*This framework can be used, among other considerations, to prioritize testing for COVID-19 when testing resources are limited.*
 
 ## Model Predictors and Exact Variable Names (True = 1, False = 0)
 * **Age over 60** - Age_60

@@ -16,7 +16,7 @@ Leveraging a nationwide public dataset of over 274,000 records from the Israeli 
 * **Dataset Source:** Israeli Ministry of Health COVID-19 Public Database(https://data.gov.il/dataset/covid-19) via the authors' original GitHub Repository(https://github.com/nshomron/covidpred).
 ---
 
-# Original (Zoabi et al., 2021) project README;
+Original (Zoabi et al., 2021) project README;
 
 ## Machine learning-based prediction of COVID-19 diagnosis based on symptoms
 [npj Digital Medicine](https://www.nature.com/articles/s41746-020-00372-6) | [medRxiv](https://www.medrxiv.org/content/10.1101/2020.05.07.20093948v2) | [PDF](https://www.nature.com/articles/s41746-020-00372-6.pdf)

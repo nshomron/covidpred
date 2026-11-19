@@ -2,7 +2,7 @@
  
 For our November 2026 Hackathon, we were tasked with a rapid-fire, two-day data science challenge, working in a randomised team of five peers selected from across our Level 7 AI and Data Science Specialist cohorts. Operating under tight time constraints, our brief was to build, tune, and evaluate machine learning models capable of predicting COVID-19 infection status using only eight simple, self-reported symptoms and demographic features.
  
-Leveraging a nationwide public dataset of over 274,000 records from the Israeli Ministry of Health (benchmarked against the published work of Zoabi et al., 2021), our goal was to design an instant, zero-cost virtual triage tool to help prioritise laboratory testing resources — culminating in a live 15-minute technical presentation and peer Q&A.
+Leveraging a nationwide public dataset of over 274,000 records from the Israeli Ministry of Health (benchmarked against the published work of Zoabi et al., 2021), our goal was to design an instant, zero-cost virtual triage tool to help prioritise laboratory testing resources, culminating in a live 15-minute technical presentation and peer Q&A.
  
 ## 👥 Meet our Team
 * **Ruby Buckley** [@](https://github.com/RubyB-Ghub) — GSK
@@ -14,6 +14,9 @@ Leveraging a nationwide public dataset of over 274,000 records from the Israeli 
 ## 📚 References
 * **Original Paper:** Zoabi, Y., Deri-Rozov, S. & Shomron, N. Machine learning-based prediction of COVID-19 diagnosis based on symptoms. npj Digit. Med. (2021).[https://doi.org/10.1038/s41746-020-00372-6](https://doi.org/10.1038/s41746-020-00372-6)
 * **Dataset Source:** Israeli Ministry of Health COVID-19 Public Database(https://data.gov.il/dataset/covid-19) via the authors' original GitHub Repository(https://github.com/nshomron/covidpred).
+---
+
+Original (Zoabi et al., 2021) GitHub repo overview;
 
 
 

@@ -5,15 +5,17 @@ For our November 2026 Hackathon, we were tasked with a rapid-fire, two-day data 
 Leveraging a nationwide public dataset of over 274,000 records from the Israeli Ministry of Health (benchmarked against the published work of Zoabi et al., 2021), our goal was to design an instant, zero-cost virtual triage tool to help prioritise laboratory testing resources — culminating in a live 15-minute technical presentation and peer Q&A.
  
 ## 👥 Meet our Team
-* **Ruby Buckley** — GSK
-* **Nikki Brown** — University of Kent
-* **Lizzie Dawson** — University of Oxford
-* **Alberto Liuzzo-Scorpo** — NHS England
-* **Allison Jordan** — NHS England
+* **Ruby Buckley** [@](https://github.com/RubyB-Ghub) — GSK
+* **Nikki Brown** [@](https://github.com/nikkip7476)) — University of Kent
+* **Lizzie Dawson** [@](https://github.com/ElizabethDawson7) — University of Oxford
+* **Alberto Liuzzo-Scorpo** [@](https://github.com/albliusc) — NHS England
+* **Allison Jordan** [@](https://github.com/AJordanSE) — NHS England
  
 ## 📚 References
 * **Original Paper:** Zoabi, Y., Deri-Rozov, S. & Shomron, N. Machine learning-based prediction of COVID-19 diagnosis based on symptoms. npj Digit. Med. (2021).[https://doi.org/10.1038/s41746-020-00372-6](https://doi.org/10.1038/s41746-020-00372-6)
 * **Dataset Source:** Israeli Ministry of Health COVID-19 Public Database(https://data.gov.il/dataset/covid-19) via the authors' original GitHub Repository(https://github.com/nshomron/covidpred).
+
+
 
 ## Machine learning-based prediction of COVID-19 diagnosis based on symptoms
 [npj Digital Medicine](https://www.nature.com/articles/s41746-020-00372-6) | [medRxiv](https://www.medrxiv.org/content/10.1101/2020.05.07.20093948v2) | [PDF](https://www.nature.com/articles/s41746-020-00372-6.pdf)
